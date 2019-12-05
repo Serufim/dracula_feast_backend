@@ -10,6 +10,9 @@ django = "*"
 psycopg2-binary = "*"
 python-dotenv = "*"
 djangorestframework = "*"
+djangorestframework-jwt = "*"
+djangorestframework-jwt-refresh-token = "*"
+django-cors-headers = "*"
 
 [requires]
 python_version = "3.7"
